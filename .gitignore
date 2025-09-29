@@ -1,0 +1,14 @@
+# Ignore all .class files
+*.class
+
+# Ignore compiled files from target folder
+/target/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
